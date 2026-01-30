@@ -7,7 +7,7 @@ I’m particularly interested in logistics and world-model style problems involv
 I enjoy working close to the problem, iterating fast, and translating research ideas into deployable systems. 
 I’m excited about applying ML and simulation-driven approaches to complex logistics workflows in a zero-to-one startup environment.
 
-GitHub: 
+GitHub: https://github.com/Adhiadarsh/AI-ML.git
 
 Best regards,
 Adhi
